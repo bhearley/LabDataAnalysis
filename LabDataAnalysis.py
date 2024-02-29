@@ -2,6 +2,7 @@
 import streamlit as st
 import os
 import glob
+import docx
 
 # Set Paths
 home = os.getcwd()
